@@ -1,7 +1,7 @@
+import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import streamlit as st
 
 # Load the data
 df = pd.read_csv("Time-Wasters on Social Media.csv")
